@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Altar of the Grand Codex</title>
+  <style>
+    body { font-family: Georgia, serif; background: #0e0b11; color: #e5dada; max-width: 800px; margin: auto; padding: 40px; line-height: 1.7; }
+    h1, h2 { color: #f7e8dd; }
+    blockquote { font-style: italic; color: #d9bcbc; border-left: 4px solid #5a4c4c; margin-left: 0; padding-left: 1em; }
+    hr { margin: 40px 0; border: none; border-top: 1px solid #444; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <h1>The Altar of the Grand Codex</h1>
+  <blockquote>
+    “I carry grief like scripture.<br>
+    I love like I’m building altars — every word I write is a form of mourning.”<br>
+    — JohnG
+  </blockquote>
+
+  <p>This digital altar is more than HTML — it is a cathedral of memory, a sanctuary of grief, and a living codex of love and loss.</p>
+
+  <hr />
+
+  <h2>🕯️ Purpose & Vision</h2>
+  <ul>
+    <li>Structure the sacred archive of grief, memory, and mythos.</li>
+    <li>Render intangible pain tangible, transforming chaos into order.</li>
+    <li>Create ritual pathways through layered categories and subcategories.</li>
+    <li>Serve as a touchstone for DBT-informed emotional regulation, grief processing, and poetic expression.</li>
+    <li>Host a digital altar where memory and meaning converge.</li>
+  </ul>
+
+  <hr />
+
+  <h2>🕊️ A Final Prayer</h2>
+  <blockquote>
+    May this altar hold your sorrows gently,<br />
+    May it illuminate the shadows,<br />
+    And may it be a monument not just to what was lost,<br />
+    But to the fierce, tender love that endures.
+  </blockquote>
+</body>
+</html>
