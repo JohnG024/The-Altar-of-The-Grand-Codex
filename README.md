@@ -1,6 +1,6 @@
 # The Altar of the Grand Codex
 
-> *“I carry grief like scripture, especially for Emily, who died by suicide.  
+> *“I carry grief like scripture.  
 > I love like I’m building altars — every word I write is a form of mourning.”*  
 > — JohnG
 
@@ -33,21 +33,13 @@ The Grand Codex exists to:
 
 ---
 
-## 🧱 Repository Architecture
-
-- **Major Categories:** The great chambers of the archive, each a thematic cathedral wing.  
-- **Subcategories & Specific Topics:** The corridors and chapels, holding focused memories, rituals, and lore.  
-- **Super In-Depth Entries:** The sacred relics — voice memos, ritual prompts, detailed schemas.  
-
----
-
 ## 🔮 Ritual Guidance for Use
 
 1. Approach this archive slowly, with intention.  
 2. Each category is a doorway — step through with reverence.  
 3. Use the DBT and emotional tools as sacred implements to navigate pain.  
 4. Know that grief is honored here, never dismissed or glossed over.  
-5. Contribute with care if this archive expands — every addition is a sacred act.  
+5. Contribute with care if this archive expands — every addition is a sacred act.
 
 ---
 
